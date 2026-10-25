@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://babeleo.vercel.app/images/logo.png" alt="Babeleo logo" width="88" />
+  <img src="public/images/logo.png" alt="Babeleo logo" width="88" />
 
 # Babeleo
 
