@@ -12,9 +12,9 @@ A playful AI conversation app starring Babe and Leo—two cats with distinct per
 
 ## Meet the cats
 
-| Babe | Leo |
+| <img src="https://babeleo.vercel.app/images/babe-avatar.png" alt="A grey and white tabby cat" width="100" /><br /> Babe | <img src="https://babeleo.vercel.app/images/leo-avatar.png" alt="An orange and white tabby cat" width="100" /><br /> Leo |
 | --- | --- |
-| <img src="https://babeleo.vercel.app/images/babe-avatar.png" alt="A grey and white tabby cat" /><br /> A nervous, needy weirdo who wants Leo to be his best friend but will settle for a warm lap. | <img src="https://babeleo.vercel.app/images/leo-avatar.png" alt="An orange and white tabby cat" /><br /> A clever, confident alpha cat who lives for the hunt and maintains order with quiet authority. |
+|  A nervous, needy weirdo who wants Leo to be his best friend but will settle for a warm lap. |  A clever, confident alpha cat who lives for the hunt and maintains order with quiet authority. |
 
 ## Features
 
